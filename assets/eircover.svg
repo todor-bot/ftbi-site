@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2500" height="598" viewBox="0 0 2500 598" role="img" aria-label="Eircover logo">
+<defs>
+<linearGradient id="g1" x1="301" y1="237" x2="460" y2="237" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#4fbf01"/><stop offset="50%" stop-color="#4fbf01"/><stop offset="100%" stop-color="#4ebf00"/></linearGradient>
+<linearGradient id="g2" x1="301" y1="289" x2="452" y2="289" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#4fbf01"/><stop offset="50%" stop-color="#4fbf01"/><stop offset="100%" stop-color="#4ebe00"/></linearGradient>
+<linearGradient id="g3" x1="301" y1="339" x2="460" y2="339" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#4fbf01"/><stop offset="50%" stop-color="#4fbf01"/><stop offset="100%" stop-color="#4ebf00"/></linearGradient>
+<linearGradient id="g4" x1="543" y1="237" x2="586" y2="237" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#4fbf01"/><stop offset="50%" stop-color="#4fbf01"/><stop offset="100%" stop-color="#4fbf01"/></linearGradient>
+<linearGradient id="g5" x1="679" y1="237" x2="873" y2="237" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#5dc518"/><stop offset="50%" stop-color="#85d250"/><stop offset="100%" stop-color="#a6de7f"/></linearGradient>
+<linearGradient id="g6" x1="947" y1="237" x2="1126" y2="237" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#c5e9ab"/><stop offset="50%" stop-color="#d8f1c9"/><stop offset="100%" stop-color="#ebf8e3"/></linearGradient>
+<linearGradient id="g7" x1="1204" y1="235" x2="1405" y2="235" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#fbfdf8"/><stop offset="50%" stop-color="#fefefc"/><stop offset="100%" stop-color="#fdf0e5"/></linearGradient>
+<linearGradient id="g8" x1="1463" y1="237" x2="1563" y2="237" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#fae4ce"/><stop offset="50%" stop-color="#fadcc0"/><stop offset="100%" stop-color="#f9d2af"/></linearGradient>
+<linearGradient id="g9" x1="1552" y1="237" x2="1691" y2="237" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#f9d2ae"/><stop offset="50%" stop-color="#f7c598"/><stop offset="100%" stop-color="#f5b87f"/></linearGradient>
+<linearGradient id="g10" x1="1773" y1="237" x2="1932" y2="237" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#f2a359"/><stop offset="50%" stop-color="#f1923a"/><stop offset="100%" stop-color="#f18f34"/></linearGradient>
+<linearGradient id="g11" x1="1773" y1="289" x2="1925" y2="289" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#f2a359"/><stop offset="50%" stop-color="#f1933c"/><stop offset="100%" stop-color="#f18f34"/></linearGradient>
+<linearGradient id="g12" x1="1773" y1="339" x2="1932" y2="339" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#f2a359"/><stop offset="50%" stop-color="#f1923a"/><stop offset="100%" stop-color="#f18f34"/></linearGradient>
+<linearGradient id="g13" x1="2014" y1="237" x2="2208" y2="237" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#f18f34"/><stop offset="50%" stop-color="#f18f34"/><stop offset="100%" stop-color="#f18f34"/></linearGradient>
+</defs>
+<rect id="background" width="2500" height="598" fill="#28235b"/>
+<g id="eircover-logo-mark" shape-rendering="geometricPrecision">
+<path id="shape-1" d="M 301 273 L 432 273 L 456 243 L 459 237 L 301 237 Z" fill="url(#g1)" fill-rule="evenodd"/>
+<path id="shape-2" d="M 301 321 L 427 321 L 451 291 L 451 289 L 301 289 Z" fill="url(#g2)" fill-rule="evenodd"/>
+<path id="shape-3" d="M 301 374 L 433 374 L 457 344 L 459 339 L 301 339 Z" fill="url(#g3)" fill-rule="evenodd"/>
+<path id="shape-4" d="M 543 237 L 543 374 L 585 374 L 585 237 Z" fill="url(#g4)" fill-rule="evenodd"/>
+<path id="shape-5" d="M 680 271 L 804 273 L 820 282 L 821 293 L 806 304 L 679 304 L 679 374 L 721 374 L 722 338 L 786 338 L 816 374 L 872 374 L 832 332 L 854 317 L 865 293 L 863 270 L 845 249 L 811 238 L 707 237 Z" fill="url(#g5)" fill-rule="evenodd"/>
+<path id="shape-6" d="M 960 266 L 948 292 L 949 322 L 960 344 L 973 357 L 990 367 L 1015 374 L 1099 374 L 1125 339 L 1021 339 L 1003 332 L 994 323 L 990 313 L 991 296 L 1004 280 L 1024 273 L 1099 273 L 1125 237 L 1008 239 L 980 249 Z" fill="url(#g6)" fill-rule="evenodd"/>
+<path id="shape-7" d="M 1213 268 L 1204 295 L 1206 328 L 1218 351 L 1246 369 L 1292 377 L 1348 373 L 1381 359 L 1400 334 L 1404 317 L 1403 288 L 1395 268 L 1382 254 L 1359 285 L 1361 319 L 1350 334 L 1323 341 L 1276 340 L 1258 334 L 1248 322 L 1247 293 L 1256 279 L 1285 271 L 1338 273 L 1358 242 L 1316 235 L 1265 238 L 1233 249 Z" fill="url(#g7)" fill-rule="evenodd"/>
+<path id="shape-8" d="M 1463 237 L 1463 239 L 1536 344 L 1539 344 L 1562 311 L 1562 307 L 1519 243 L 1514 237 Z" fill="url(#g8)" fill-rule="evenodd"/>
+<path id="shape-9" d="M 1690 237 L 1641 237 L 1552 362 L 1552 366 L 1558 372 L 1571 377 L 1584 376 L 1594 371 L 1603 362 L 1688 242 Z" fill="url(#g9)" fill-rule="evenodd"/>
+<path id="shape-10" d="M 1773 273 L 1905 273 L 1930 241 L 1931 237 L 1774 237 L 1773 238 Z" fill="url(#g10)" fill-rule="evenodd"/>
+<path id="shape-11" d="M 1773 320 L 1774 321 L 1900 321 L 1924 291 L 1924 289 L 1774 289 L 1773 290 Z" fill="url(#g11)" fill-rule="evenodd"/>
+<path id="shape-12" d="M 1773 374 L 1906 374 L 1931 342 L 1931 339 L 1774 339 L 1773 340 Z" fill="url(#g12)" fill-rule="evenodd"/>
+<path id="shape-13" d="M 2016 270 L 2016 273 L 2139 273 L 2152 278 L 2157 291 L 2151 300 L 2141 304 L 2015 304 L 2014 374 L 2057 374 L 2058 338 L 2121 338 L 2152 374 L 2207 374 L 2168 332 L 2191 315 L 2200 295 L 2197 267 L 2179 248 L 2146 238 L 2042 237 Z" fill="url(#g13)" fill-rule="evenodd"/>
+</g>
+</svg>

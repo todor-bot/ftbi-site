@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800">
+
+<!-- signal arcs (infrastructure / broadcast reach) -->
+<path d="M309,504 A150,150 0 0 1 376,503" stroke="#452E59" stroke-width="36" fill="none" stroke-linecap="round"/>
+<path d="M289,425 A232,232 0 0 1 432,435" stroke="#452E59" stroke-width="26" fill="none" stroke-linecap="round"/>
+<path d="M269,345 A314,314 0 0 1 502,378" stroke="#452E59" stroke-width="17" fill="none" stroke-linecap="round"/>
+<path d="M249,266 A396,396 0 0 1 589,338" stroke="#452E59" stroke-width="9" fill="none" stroke-linecap="round"/>
+
+<!-- connecting-the-dots network mesh: thin, quiet, present on close look only -->
+<g stroke-linecap="round">
+  <line x1="345" y1="650" x2="376" y2="503" stroke="#FFA04F" stroke-width="1.4" opacity="0.22"/>
+  <line x1="376" y1="503" x2="432" y2="435" stroke="#FFA04F" stroke-width="1.4" opacity="0.22"/>
+  <line x1="432" y1="435" x2="502" y2="378" stroke="#FFA04F" stroke-width="1.4" opacity="0.22"/>
+  <line x1="502" y1="378" x2="589" y2="338" stroke="#FFA04F" stroke-width="1.4" opacity="0.22"/>
+  <line x1="345" y1="650" x2="432" y2="435" stroke="#452E59" stroke-width="0.75" opacity="0.14"/>
+  <line x1="376" y1="503" x2="502" y2="378" stroke="#452E59" stroke-width="0.75" opacity="0.14"/>
+  <line x1="432" y1="435" x2="589" y2="338" stroke="#452E59" stroke-width="0.75" opacity="0.14"/>
+  <line x1="345" y1="650" x2="502" y2="378" stroke="#452E59" stroke-width="0.6" opacity="0.08"/>
+  <line x1="345" y1="650" x2="430" y2="560" stroke="#452E59" stroke-width="0.6" opacity="0.11"/>
+  <line x1="376" y1="503" x2="430" y2="560" stroke="#452E59" stroke-width="0.6" opacity="0.11"/>
+  <line x1="432" y1="435" x2="430" y2="560" stroke="#452E59" stroke-width="0.5" opacity="0.08"/>
+  <line x1="432" y1="435" x2="520" y2="460" stroke="#452E59" stroke-width="0.6" opacity="0.11"/>
+  <line x1="502" y1="378" x2="520" y2="460" stroke="#452E59" stroke-width="0.6" opacity="0.11"/>
+  <line x1="589" y1="338" x2="520" y2="460" stroke="#452E59" stroke-width="0.5" opacity="0.08"/>
+</g>
+<circle cx="430" cy="560" r="3.5" fill="#FFA04F" opacity="0.35"/>
+<circle cx="520" cy="460" r="3" fill="#FFA04F" opacity="0.3"/>
+
+<!-- signal nodes -->
+<circle cx="376" cy="503" r="14" fill="#FFA04F" opacity="1.0"/>
+<circle cx="432" cy="435" r="12" fill="#FFA04F" opacity="0.87"/>
+<circle cx="502" cy="378" r="10" fill="#FFA04F" opacity="0.74"/>
+<circle cx="589" cy="338" r="8" fill="#FFA04F" opacity="0.61"/>
+<circle cx="345" cy="650" r="19" fill="#452E59"/>
+
+<!-- FTBI wordmark: custom geometric letterforms, chamfered along the signal's own diagonal -->
+<path d="M 440.00,420.00 L 580.00,420.00 L 610.00,450.00 L 610.00,464.00 L 484.00,464.00 L 484.00,515.00 L 570.00,515.00 L 570.00,559.00 L 484.00,559.00 L 484.00,640.00 L 470.00,640.00 L 440.00,610.00 Z" fill="#452E59"/>
+<path d="M 646.00,420.00 L 786.00,420.00 L 816.00,450.00 L 816.00,464.00 L 753.00,464.00 L 753.00,640.00 L 739.00,640.00 L 709.00,610.00 L 709.00,464.00 L 646.00,464.00 Z" fill="#452E59"/>
+<path d="M 852.00,420.00 L 977.00,420.00 L 1007.00,450.00 L 1007.00,640.00 L 882.00,640.00 L 852.00,610.00 M 896.00,464.00 L 963.00,464.00 L 963.00,508.00 L 896.00,508.00 Z M 896.00,552.00 L 963.00,552.00 L 963.00,596.00 L 896.00,596.00 Z" fill="#452E59" fill-rule="evenodd"/>
+<path d="M 1057.00,464.00 L 1075.00,464.00 L 1105.00,494.00 L 1105.00,640.00 L 1087.00,640.00 L 1057.00,610.00 Z" fill="#452E59"/>
+
+<!-- the "i" as an intelligence hub - a signal pulse echoing the network motif -->
+<circle cx="1081" cy="370" r="82" fill="none" stroke="#FFA04F" stroke-width="5" opacity="0.22"/>
+<circle cx="1081" cy="370" r="62" fill="#FFA04F"/>
+
+<text x="446" y="740" font-family="Montserrat, 'Poppins', 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="15" fill="#FFA04F">INTELLIGENCE INFRASTRUCTURE</text>
+</svg>
